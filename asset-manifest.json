@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cavazosdotcom/all-about-me/static/css/main.073c9b0a.css",
+    "main.js": "/cavazosdotcom/all-about-me/static/js/main.e142c557.js",
+    "static/js/787.d26a2119.chunk.js": "/cavazosdotcom/all-about-me/static/js/787.d26a2119.chunk.js",
+    "static/media/logo.svg": "/cavazosdotcom/all-about-me/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cavazosdotcom/all-about-me/index.html",
+    "main.073c9b0a.css.map": "/cavazosdotcom/all-about-me/static/css/main.073c9b0a.css.map",
+    "main.e142c557.js.map": "/cavazosdotcom/all-about-me/static/js/main.e142c557.js.map",
+    "787.d26a2119.chunk.js.map": "/cavazosdotcom/all-about-me/static/js/787.d26a2119.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e142c557.js"
+  ]
+}
